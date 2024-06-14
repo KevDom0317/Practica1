@@ -1,0 +1,13 @@
+/* Archivo: styles.css */
+.task-item.completed {
+    background-color: #d4edda !important;
+    text-decoration: line-through;
+}
+
+.task-item.expired {
+    background-color: #f8d7da !important;
+}
+
+.task-item {
+    margin-bottom: 10px;
+}
